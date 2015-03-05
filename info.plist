@@ -447,9 +447,9 @@
 				<key>keyword</key>
 				<string>fillerh</string>
 				<key>subtext</key>
-				<string>Generate Futurama filler text for headers</string>
+				<string>Generate Futurama filler headline</string>
 				<key>text</key>
-				<string>Header Filler Text (Futurama)</string>
+				<string>Filler Headline (Futurama)</string>
 				<key>withspace</key>
 				<true/>
 			</dict>
@@ -551,9 +551,9 @@
 				<key>keyword</key>
 				<string>fillerh</string>
 				<key>subtext</key>
-				<string>Generate Star Wars filler text for headers</string>
+				<string>Generate Star Wars filler headline</string>
 				<key>text</key>
-				<string>Header Filler Text (Star Wars)</string>
+				<string>Filler Headline (Star Wars)</string>
 				<key>withspace</key>
 				<true/>
 			</dict>
@@ -642,9 +642,9 @@
 				<key>keyword</key>
 				<string>fillerh</string>
 				<key>subtext</key>
-				<string>Generate Star Wars filler text for headers</string>
+				<string>Generate Star Wars filler headline</string>
 				<key>text</key>
-				<string>Header Filler Text (Simpsons)</string>
+				<string>Filler Headline (Simpsons)</string>
 				<key>withspace</key>
 				<true/>
 			</dict>
@@ -748,9 +748,9 @@
 				<key>keyword</key>
 				<string>fillerh</string>
 				<key>subtext</key>
-				<string>Generate Arrested Development filler text for headers</string>
+				<string>Generate Arrested Development filler headline</string>
 				<key>text</key>
-				<string>Header Filler Text (Arrested Development)</string>
+				<string>Filler Headline (Arrested Development)</string>
 				<key>withspace</key>
 				<true/>
 			</dict>
@@ -854,9 +854,9 @@
 				<key>keyword</key>
 				<string>fillerh</string>
 				<key>subtext</key>
-				<string>Generate Doctor Who filler text for headers</string>
+				<string>Generate Doctor Who filler headline</string>
 				<key>text</key>
-				<string>Header Filler Text (Doctor Who)</string>
+				<string>Filler Headline (Doctor Who)</string>
 				<key>withspace</key>
 				<true/>
 			</dict>
@@ -992,9 +992,9 @@
 				<key>keyword</key>
 				<string>fillerh</string>
 				<key>subtext</key>
-				<string>Generate Dexter filler text for headers</string>
+				<string>Generate Dexter filler headline</string>
 				<key>text</key>
-				<string>Header Filler Text (Dexter)</string>
+				<string>Filler Headline (Dexter)</string>
 				<key>withspace</key>
 				<true/>
 			</dict>
@@ -1098,9 +1098,9 @@
 				<key>keyword</key>
 				<string>fillerh</string>
 				<key>subtext</key>
-				<string>Generate Monty Python filler text for headers</string>
+				<string>Generate Monty Python filler headline</string>
 				<key>text</key>
-				<string>Header Filler Text (Monty Python)</string>
+				<string>Filler Headline (Monty Python)</string>
 				<key>withspace</key>
 				<true/>
 			</dict>
@@ -1189,9 +1189,9 @@
 				<key>keyword</key>
 				<string>fillerh</string>
 				<key>subtext</key>
-				<string>Generate Lorem Ipsum filler text for headers</string>
+				<string>Generate Lorem Ipsum filler headline</string>
 				<key>text</key>
-				<string>Header Filler Text (Lorem Ipsum)</string>
+				<string>Filler Headline (Lorem Ipsum)</string>
 				<key>withspace</key>
 				<true/>
 			</dict>
