@@ -5,6 +5,13 @@ Alfred Workflow for Fillerama
 
 ![Fillerama workflow for Alfred](https://raw.githubusercontent.com/florianeckerstorfer/alfred-fillerama/master/screenshot.png)
 
+Installation
+------------
+
+Download the [latest release](https://github.com/florianeckerstorfer/alfred-fillerama/releases) and double clicl the
+`.alfredworkflow` file in Finder to install.
+
+
 Usage
 -----
 
