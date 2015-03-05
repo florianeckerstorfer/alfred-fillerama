@@ -1,5 +1,5 @@
-Alfred Workflow for Fillerama
-=============================
+Filler Text Generator for Alfred
+================================
 
 > Alfred workflow to generate filler text using quotes from Futurama, The Simpsons, Monty Python, Arrested Development,
 Dexter, Doctor Who and Star Wars. Uses the [Fillerama](http://chrisvalleskey.com/fillerama/) API.
