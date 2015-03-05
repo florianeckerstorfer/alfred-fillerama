@@ -8,7 +8,7 @@ Alfred Workflow for Fillerama
 Installation
 ------------
 
-Download the [latest release](https://github.com/florianeckerstorfer/alfred-fillerama/releases) and double clicl the
+Download the [latest release](https://github.com/florianeckerstorfer/alfred-fillerama/releases) and double click the
 `.alfredworkflow` file in Finder to install.
 
 
